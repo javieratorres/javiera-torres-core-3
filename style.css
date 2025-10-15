@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+.elemento_1{
+    display: flex;
+    background-color: darkgoldenrod;
+    justify-content: space-around;
+}
+
+.elemento_2{
+    background-color: rgb(77, 204, 233);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.elemento_3{
+    background-color: rgb(211, 112, 112);
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    background-color: rgb(170, 237, 103);
+    text-align: center;
+    margin: 0;
+    height: 40px;
+}
+
